@@ -1,5 +1,5 @@
 def introduce():
-    print("Hello, I'm Gittie!")
+    print("Hello, I'm not Gittie!")
 
 def joke():
     print("Can a kangaroo jump higher than a house?" + "\n" + "Of course. The house doesn't jump at all.")
